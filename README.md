@@ -1,6 +1,6 @@
 # Hello I am Italo Oliveira and I'm a developer
 
-Actually i am studying in Feevale University 
+Currently i am studying in Feevale University 
 
 I worked with PHP, .NET and Nodejs
 - 1 year with PHP ❤️
