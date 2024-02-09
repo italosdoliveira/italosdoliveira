@@ -1,4 +1,4 @@
-# Hello i am Italo Oliveira and I'm a developer
+# Hello I am Italo Oliveira and I'm a developer
 
 Actually i am studying in Feevale University 
 
