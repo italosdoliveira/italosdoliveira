@@ -9,10 +9,10 @@ I worked with PHP, .NET and Nodejs
   
 Any languages, frameworks and other technologies that i worked: Wordpress, Reactjs, Typescript, Grapqhl, Nestjs, .NET framework, .NET core, Bootstrap, jQuery, Python💙
 
-I too learned machine learning and deep learning for my final paper. 
+And I learned machine learning and deep learning for my final paper. 
 
 In my free time i help to organize meetups in my city. 😊  
-*I too practice martial arts to strengthen my body and my mind.* 👊
+*I also practice martial arts to strengthen my body and my mind.* 👊
   
 Ideas > People > Techonologies 🌎
   
