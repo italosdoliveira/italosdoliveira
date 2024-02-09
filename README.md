@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello i am Italo Oliveira and i am a developer
 
-<!--
-**italosdoliveira/italosdoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actually i am studying in Feevale University
 
-Here are some ideas to get you started:
+I did work with PHP, .NET and Nodejs
+- 1 year with php
+- 3 years with .NET
+- 6 months with Nodejs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I too learned machine learning and deep learning for my final paper. 
+
+
+
+
+  
