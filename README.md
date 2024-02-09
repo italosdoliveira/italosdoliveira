@@ -11,7 +11,7 @@ Any languages, frameworks and other technologies that i worked: Wordpress, React
 
 I too learned machine learning and deep learning for my final paper. 
 
-In my free time i help to organize meetups in my city. 😊
+In my free time i help to organize meetups in my city. 😊  
 *I also practice martial arts to strengthen my body and my mind.* 👊
   
 
