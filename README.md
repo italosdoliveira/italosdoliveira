@@ -7,7 +7,7 @@ I did work with PHP, .NET and Nodejs
 - 3 years with .NET ❤️❤️
 - 6 months with Nodejs ❤️
   
-Any languages, frameworks and other technologies that i worked: Wordpress, Reactjs, Typescript, Grapqhl, Nestjs, .NET framework, .NET core, Bootstrap, jQuery, Python❤️
+Any languages, frameworks and other technologies that i worked: Wordpress, Reactjs, Typescript, Grapqhl, Nestjs, .NET framework, .NET core, Bootstrap, jQuery, Python💙
 
 I too learned machine learning and deep learning for my final paper. 
 
