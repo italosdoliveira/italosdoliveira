@@ -5,7 +5,7 @@ Currently i am studying in Feevale University
 I worked with PHP, .NET and Nodejs
 - 1 year with PHP ❤️
 - 3 years with .NET ❤️❤️
-- 6 months with Nodejs ❤️
+- 14 months with Nodejs ❤️
   
 Any languages, frameworks and other technologies that i worked: Wordpress, Reactjs, Typescript, Grapqhl, Nestjs, .NET framework, .NET core, Bootstrap, jQuery, Python💙
 
